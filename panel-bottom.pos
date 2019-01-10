@@ -1,0 +1,42 @@
+### Module positions - created on 09/14/18 10:34:51 ###
+### Printed by Pcbnew version pcbnew (2017-07-13 revision e01eb2975)-makepkg
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                PosX       PosY       Rot  Side
+BT1       Battery   BV-452229-25ET     170.5561   -76.5886  180.0000  bottom
+BT1       Battery   BV-452229-25ET     100.5561  -166.5886  180.0000  bottom
+BT1       Battery   BV-452229-25ET      30.5561  -166.5886  180.0000  bottom
+BT1       Battery   BV-452229-25ET     170.5561  -136.5886  180.0000  bottom
+BT1       Battery   BV-452229-25ET     100.5561  -136.5886  180.0000  bottom
+BT1       Battery   BV-452229-25ET      30.5561  -136.5886  180.0000  bottom
+BT1       Battery   BV-452229-25ET     170.5561  -106.5886  180.0000  bottom
+BT1       Battery   BV-452229-25ET     100.5561  -106.5886  180.0000  bottom
+BT1       Battery   BV-452229-25ET      30.5561  -106.5886  180.0000  bottom
+BT1       Battery   BV-452229-25ET     170.5561  -166.5886  180.0000  bottom
+BT1       Battery   BV-452229-25ET     100.5561   -76.5886  180.0000  bottom
+BT1       Battery   BV-452229-25ET      30.5561   -76.5886  180.0000  bottom
+BT1       Battery   BV-452229-25ET     170.5561   -46.5886  180.0000  bottom
+BT1       Battery   BV-452229-25ET     100.5561   -46.5886  180.0000  bottom
+BT1       Battery   BV-452229-25ET      30.5561   -46.5886  180.0000  bottom
+BT1       Battery   BV-452229-25ET     170.5561   -16.5886  180.0000  bottom
+BT1       Battery   BV-452229-25ET     100.5561   -16.5886  180.0000  bottom
+BT1       Battery   BV-452229-25ET      30.5561   -16.5886  180.0000  bottom
+BT1       Battery   BV-452229-25ET     170.5561  -256.5886  180.0000  bottom
+BT1       Battery   BV-452229-25ET     100.5561  -346.5886  180.0000  bottom
+BT1       Battery   BV-452229-25ET      30.5561  -346.5886  180.0000  bottom
+BT1       Battery   BV-452229-25ET     170.5561  -316.5886  180.0000  bottom
+BT1       Battery   BV-452229-25ET     100.5561  -316.5886  180.0000  bottom
+BT1       Battery   BV-452229-25ET      30.5561  -316.5886  180.0000  bottom
+BT1       Battery   BV-452229-25ET     170.5561  -286.5886  180.0000  bottom
+BT1       Battery   BV-452229-25ET     100.5561  -286.5886  180.0000  bottom
+BT1       Battery   BV-452229-25ET      30.5561  -286.5886  180.0000  bottom
+BT1       Battery   BV-452229-25ET     170.5561  -346.5886  180.0000  bottom
+BT1       Battery   BV-452229-25ET     100.5561  -256.5886  180.0000  bottom
+BT1       Battery   BV-452229-25ET      30.5561  -256.5886  180.0000  bottom
+BT1       Battery   BV-452229-25ET     170.5561  -226.5886  180.0000  bottom
+BT1       Battery   BV-452229-25ET     100.5561  -226.5886  180.0000  bottom
+BT1       Battery   BV-452229-25ET      30.5561  -226.5886  180.0000  bottom
+BT1       Battery   BV-452229-25ET     170.5561  -196.5886  180.0000  bottom
+BT1       Battery   BV-452229-25ET     100.5561  -196.5886  180.0000  bottom
+BT1       Battery   BV-452229-25ET      30.5561  -196.5886  180.0000  bottom
+## End
